@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi Hi 👋
+
+- reach me:
+  * twitter: [@d8boom](https://twitter.com/d8boom)
+  * mail: [i@doobom.me](mailto:i@doobom.me)
+  * telegram: [@doobom](https://t.me/doobom)
+  
+- something about crestron, rti, helvar.
+
 
 <!--
 **doobom/doobom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
