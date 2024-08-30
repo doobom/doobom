@@ -5,7 +5,7 @@
   * mail: [i@doobom.me](mailto:i@doobom.me)
   * telegram: [@doobom](https://t.me/doobom)
   
-- something about crestron, rti, helvar.
+- something about crestron, amx, rti, helvar.
 
 
 <!--
